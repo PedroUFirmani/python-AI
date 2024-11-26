@@ -1,0 +1,6 @@
+print("hello world")
+print("pypypypy")
+print("fratelli di italia")
+print("gyaaaat")
+print("skibidi sigma fanum tax")
+print("skibidi skibidi hawk tuah of hawk")
